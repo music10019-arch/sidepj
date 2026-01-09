@@ -1,6 +1,6 @@
 # US Election Data Visualization 🗺️
 
-https://music10019-arch.github.io/sidepj/
+https://music10019-arch.github.io/sideProjectFront/
 
 An interactive web-based visualization tool for exploring US House of Representatives election results (2020-2024) through an interactive state map and detailed district-level analysis.
 
