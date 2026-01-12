@@ -105,5 +105,4 @@ This repository contains practice exercises focusing on core functionality only.
 
 ---
 
-**Author**: Chris  
-**Project Type**: Side Project - Data Visualization Practice
+**Author**: Chris, 2025
